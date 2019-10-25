@@ -1,2 +1,1 @@
-paso 1
-paso 2
+subcategoria={254:'footer-primus',255:'menu-icons-primus'}
